@@ -202,7 +202,7 @@ const ariharasudhan = {
 
 [![Email](https://img.shields.io/badge/Email-ariharasudhan2803%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ariharasudhan2803@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariharasudhan_D-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariharasudhan-d-3b383539a)
-[![GitHub](https://img.shields.io/badge/GitHub-ariharasudhan28-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ariharasudhan47)
+[![GitHub](https://img.shields.io/badge/GitHub-Ariharasudhan47-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ariharasudhan47)
 [![Phone](https://img.shields.io/badge/Phone-%2B91_7603876504-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917603876504)
 
 </div>

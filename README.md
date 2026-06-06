@@ -92,11 +92,11 @@ const ariharasudhan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ariharasudhan28">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ariharasudhan28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  <a href="https://github.com/Ariharasudhan47">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ariharasudhan47&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/ariharasudhan28">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariharasudhan28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <a href="https://github.com/Ariharasudhan47">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariharasudhan47&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -105,7 +105,7 @@ const ariharasudhan = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ariharasudhan28&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Ariharasudhan47&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -113,7 +113,7 @@ const ariharasudhan = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariharasudhan28&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariharasudhan47&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -121,7 +121,7 @@ const ariharasudhan = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ariharasudhan28&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ariharasudhan47&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -150,8 +150,8 @@ const ariharasudhan = {
 
 | 🗂️ Project | ⚙️ Stack | ✨ Highlights |
 |:-----------|:---------|:-------------|
-| [**🛒 Full Stack E-Commerce Platform**](https://github.com/ariharasudhan28) | React.js · Node.js · Express.js · MongoDB · JWT | Scalable MERN e-commerce with authentication, cart management & secure payment integration. Optimized API response times via query tuning. |
-| [**⚡ TaskConnect – Hyperlocal Gig Marketplace**](https://github.com/ariharasudhan28) | React.js · Node.js · Tailwind CSS · MongoDB · AI Recommendations | AI-based job recommendations, voice-assisted task posting, secure wallet, milestone tracking, passkey auth & real-time notifications. |
+| [**🛒 Full Stack E-Commerce Platform**](https://github.com/Ariharasudhan47) | React.js · Node.js · Express.js · MongoDB · JWT | Scalable MERN e-commerce with authentication, cart management & secure payment integration. Optimized API response times via query tuning. |
+| [**⚡ TaskConnect – Hyperlocal Gig Marketplace**](https://github.com/Ariharasudhan47) | React.js · Node.js · Tailwind CSS · MongoDB · AI Recommendations | AI-based job recommendations, voice-assisted task posting, secure wallet, milestone tracking, passkey auth & real-time notifications. |
 
 </div>
 

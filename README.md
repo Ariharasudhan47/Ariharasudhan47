@@ -7,8 +7,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ariharasudhan28&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ariharasudhan28?style=flat-square&color=bf91f3&logo=github&logoColor=white&label=Followers" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Ariharasudhan47&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Ariharasudhan47?style=flat-square&color=bf91f3&logo=github&logoColor=white&label=Followers" alt="Followers"/>
 </div>
 
 ---
